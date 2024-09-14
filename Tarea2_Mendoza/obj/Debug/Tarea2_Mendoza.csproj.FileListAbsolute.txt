@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\bin\Debug\Tarea2_Mendoza.exe.config
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\bin\Debug\Tarea2_Mendoza.exe
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\bin\Debug\Tarea2_Mendoza.pdb
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\obj\Debug\Tarea2_Mendoza.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\obj\Debug\Tarea2_Mendoza.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\obj\Debug\Tarea2_Mendoza.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\obj\Debug\Tarea2_Mendoza.exe
+C:\Users\user\source\repos\Tarea2_Mendoza\Tarea2_Mendoza\obj\Debug\Tarea2_Mendoza.pdb
